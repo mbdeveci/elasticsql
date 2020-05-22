@@ -29,3 +29,7 @@ This repo contains cli wrapper for [github.com/cch123/elasticsql](https://github
   "size": 1
 }
 ```
+
+### Install
+
+`go get -u github.com/mbdeveci/elasticsql`
