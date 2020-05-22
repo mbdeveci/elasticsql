@@ -1,4 +1,4 @@
-This repo contains cli wrapper for [elasticsql]: https://github.com/cch123/elasticsql
+This repo contains cli wrapper for [github.com/cch123/elasticsql](https://github.com/cch123/elasticsql)
 
 ### Usage
 
