@@ -1,5 +1,4 @@
-module github.com/mbdeveci/elasticsql-cli
-
+module github.com/mbdeveci/elasticsql
 go 1.14
 
 require (
